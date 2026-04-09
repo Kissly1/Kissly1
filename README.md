@@ -28,9 +28,6 @@ I'm an iOS developer based in Almaty, Kazakhstan. Currently a 3rd-year CS studen
 
 ---
 
-### 📊 GitHub Stats
-
-![Kissly1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kissly1&show_icons=true&theme=radium&hide_border=true)
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandr-kislitsin-26a80234a/)
