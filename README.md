@@ -1,6 +1,6 @@
 # Hi there! I'm Alexandr 👋
 
-### iOS Developer | Tech Lead @ CAMPUS
+### iOS Developer 
 
 I'm an iOS developer based in Almaty, Kazakhstan. Currently a 3rd-year CS student at KBTU, while also building the technical architecture at an EdTech startup. I write clean code, love building smooth UIs with SwiftUI, and always keep product metrics in mind.
 
